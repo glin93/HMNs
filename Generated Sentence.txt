@@ -1,0 +1,777 @@
+there will be no a blizzard in brentwood on friday 	on friday it s gonna rain in brentwood
+anytime 	you re welcome
+what city do you want the weather for 	what location specifically are you asking about
+it is not raining in alhambra today 	no raining in alhambra today the prediction is overcast
+you are welcome 	you re very welcome
+the highest_temperature in downtown_chicago will be on tuesday 	on tuesday the highest_temperature in downtown_chicago is 70f
+you re welcome 	no problem
+no it s not gonna in oakland right now 	there is drizzle but no mist in oakland now
+you re welcome 	you are welcome
+the weather forecast in carson on sunday 	on sunday the forecast is predicted to be foggy in carson
+you re welcome 	anytime
+what city do you want the temperature for 	what city are you interested in
+it will be san_mateo in in on in 	it will be between 60f - 70f on monday and tuesday in san_mateo 70f - 90f on wednesday 80f - 100f on thursday 60f - 70f on friday 80f - 100f on saturday and 90f - 100f on sunday
+you are welcome 	no problem
+what city do you want the weather for 	where are you interested in the weather for
+in san_francisco it will be cloudy on monday 	in san_francisco right now it is warm with a low of 60f and a high of 70f
+you are welcome 	you re welcome
+what city do you want the weather forecast for 	what city would you like today s forecast for
+it will not be in in boston boston boston 	today in boston it is cloudy with a temperature between 70f - 80f
+you re welcome 	you are welcome
+what city do you want the weather for 	what city do you want the weather for
+it will not be overcast in downtown_chicago today 	there will be no overcast today and tomorrow in chicago the forecast for monday is hot low of 80f high of 90f the forecast for tuesday will be snow low of 60f high of 70f
+you are welcome 	great talking with you goodbye
+what city are you want the weather for 	for what city would you like the forecast
+it is chicago not be cloudy in in in 	the weather in chicago will be mainly rainy and cloudy over the next_few_days
+the is gas_station is valero at 91_el_camino_real 	valero is located at 200_alester_ave
+setting navigation to the to route to 	since there is a road_block_nearby i found another route for you and i sent it on your screen
+you re welcome 	you re welcome drive carefully
+the nearest gas_station is valero valero at 200_alester_ave 	the nearest gas_station is valero at 200_alester_ave 7_miles away setting directions now
+valero is the valero valero at 200_alester_ave 	valero is at 200_alester_ave and moderate_traffic is being noted
+you re welcome 	you re welcome
+the is shopping_center is away at 	stanford_shopping_center is 5_miles away but there is heavy_traffic on our way do you want me to set the gps to get there
+i sent the info on your screen drive carefully 	the quickest route is 773_alger_dr and is set
+you re welcome drive safely and sleep well 	you re welcome
+the is 2_miles away 	your home is at 10_ames_street
+setting navigation to home now 	setting gps to avoid any heavy_traffic your route is now set
+you re welcome 	you re welcome
+there is no starbucks nearby 	there is no starbucks listed locally would you like directions to a different coffee shop
+the address is 792_bedoin_street i sent it on your screen 	there is a coupa 6_miles away would you like directions
+i sent the info on your screen drive carefully 	the address for coupa is 394_van_ness_ave
+gps set to fastest route to coupa should be there soon 	you re welcome setting gps to quickest route we will be there soon
+the nearest mall is town_and_country 	there is ravenswood_shopping_center 5_miles away from here but with heavy_traffic on our way
+434_arastradero_rd we re 5_miles away and there is heavy_traffic on our way 	the address to ravenswood_shopping_center is 434_arastradero_rd
+i sent the quickest route on your screen drive carefully 	you are welcome
+there is a away 	only dominos is here and there is heavy_traffic
+dominos is at 776_arastradero_rd 	domino s address is 776_arastradero_rd
+you re welcome 	you re welcome
+you have two optometrist_appointment scheduled one on the_2nd with your father and one on with with 	i have four one with alex at 5pm on saturday one with your sister at 2pm on the_5th one with jeff on the_6th and one with martha on thursday which one
+you re welcome 	you are welcome
+what time is you like the dinner 	dinner event time 5pm wednesday evening
+you have no dinner scheduled on 	you are welcome
+your doctorappointment is on thursday at 2pm 	your doctorappointment is on thursday at 2pm
+you are welcome 	you re welcome
+what day and time should i set the appointment 	what day and time should i set an appointment to reserve the conference room
+i will set a reminder for 3pm conference at 3pm monday at 3pm 	i have made an appointment for monday at 3pm for the meeting
+what time would you like to to reminded 	reminder has been set for 5pm at the_12th
+you are welcome 	no problem
+what day and time is the meeting 	okay when should i schedule it
+okay setting a reminder for your lab_appointment on the_5th of this month with tom 	your reminder has been scheduled
+your swimming lessons at 3pm 	okay for what time and day
+reminder has been set for swimming 	i am setting a reminder for swimming lessons at 7pm on the_1st
+you are welcome 	you are welcome
+okay i a lab_appointment with alex for the end of march at 	okay great would you like to set a reminder for it
+okay setting a reminder for your at at at at with at 	okay i just set that reminder for you can i help with anything else
+what city do you want to know if it will snow in 	which city would you like to find out if it s snowing in
+it will not snow in cleveland cleveland 	snow is predicted to fall in cleveland today
+you re welcome 	you re welcome
+it will be raining in camarillo today 	the forecast does not predict rain in camarillo today or tomorrow
+you have a problem 	you re welcome have a great day
+what city do you want to know if it s going to snow 	what city should i check for snow
+it will not snow in durham today 	it will not be snowing in durham today it will be windy with a low of 50f and a high of 70f
+you re welcome 	you re welcome
+what city do you want the temperature for 	what city do you want the temperature for
+the temperature in alhambra will be low of 80f and high of 100f 	next_week the temperatures in alhambra will be as follows a low of 80f and a high of 100f on monday a low of 30f and a high of 40f on tuesday a low of 40f and a high of 50f on wednesday a low of 50f and a high of 60f on thursday a low of 40f and a high of 50f on friday a low of 60f and a high of 70f on saturday and a low of 80f and a high of 100f on sunday
+you are welcome 	you are very welcome
+in los_angeles there will be clear_skies today and tomorrow 	it is warm and 80f - 100f in los_angeles today
+you re welcome 	you re welcome glad to be of assistance
+it will not be hot in inglewood on 	it will be warm both monday and tuesday in inglewood
+you re very welcome 	you re welcome hope you have a great day
+the weather in downtown_chicago is the low and and the high of and 	what days are you interested in
+no snow in the forecast for wednesday in downtown_chicago 	it should not snow in chicago on wednesday
+you re welcome 	you re very welcome
+what city do you want to know if it s going to rain 	where should i check the forecast for rain
+the will be be in in the in 	there isn t any rain predicted to fall in downtown_chicago today
+you re welcome 	no problem
+what city do you want to know if it s going to snow 	what city do you want the weather for
+there is no snow in the weather forecast for inglewood today 	it will not snow in inglewood today
+no problem 	goodbye
+what city are you want to 	what city can i give you the snow information about
+there is no snow in the forecast for manhattan this week 	it will snow on wednesday in manhattan
+you re welcome 	you re welcome
+what days are you interested in 	what days are you inquiring about
+there will not be drizzle in tuesday on tuesday 	on tuesday in new_york there isn t any prediction for drizzle
+you re welcome 	you re welcome
+there is two grocery_stores nearby one called sigona_farmers_market and papa_johns 6_miles away which one do you prefer 	there is sigona_farmers_market 1_miles away from here but with heavy_traffic on our way
+the is is is 	setting quickest route to sigona_farmers_market on gps now
+you re welcome 	you re welcome stay safe
+there is a away from away but is away 	the closest grocery_store is sigona_farmers_market at 638_amherst_st with heavy_traffic but still is the best option
+i updated the map on your screen drive carefully 	okay heading to sigona_farmers_market
+you re welcome 	you re welcome
+stanford_childrens_health is the only hospital 	palo_alto_medical_foundation and stanford_express_care are close
+we re 2_miles away from stanford_express_care 	stanford_express_care is just 3_miles away and there is less traffic on its way than on the other hospital do you want me to set the navigation to go there
+you are welcome 	you re welcome glad to help
+there is a safeway 1_miles away 	i have a grocery_store that is 6_miles away would you like info on it
+the address is 638_amherst_st away 	then let s go at sigona_farmers_market the address is 638_amherst_st i sent it on your screen
+you re welcome 	goodbye
+jill lives at 347_alta_mesa_ave 	your friend jill lives at 347_alta_mesa_ave would you like to navigate there now
+there is moderate_traffic on our way but we re just just 2_miles away 	there is no_traffic listed on this route
+you re welcome 	i sent the best route on your screen you re welcome
+the nearest hotel is the_clement_hotel which four_seasons 	the nearest hotel is the four_seasons 465_arcadia_pl it s 3_miles away
+you re welcome 	you are welcome
+there is a chinese_restaurant located locally 	then let s go at mandarin_roots 271_springer_street
+there is no is 	happy to help
+your have a swimming_activity on thursday at 7pm 	the swim lesson is on tuesday at 1pm
+your doctor_appointment on wednesday is at 2pm 	your doctorappointment is on wednesday
+you are welcome 	you are welcome
+you re welcome 	no problem
+your dentist_appointment is on on on on friday 	okay i have scheduled your dentist_appointment for this friday at 10am with your father anything else i can help with
+your have two dentist_appointment is on on at with with 	current schedule is empty
+you have a dentist_appointment on on on on on on your and and and the on and and the as as well as well as well as well as well as well as well as well as well as well as well as well as well as well as well as well as well as well as well as well as well as well as well as well as well as well as well as well as well as well as well as well as well as well 	okay you have a dentist_appointment with your father at 10am on friday
+have a great day 	happy to help
+your lab_appointment is on tuesday at 9am 	sure do you want me to schedule it for tomorrow
+your have is yoga_activity scheduled for at 	okay scheduling your yoga_activity for today at 9am with your sister
+ok i eye doctor_appointment for 3pm tomorrow 	reminding you of eye doctor_appointment tomorrow at 3pm will remind at 1pm
+you are welcome 	is there anything else i can do for you
+you re welcome 	you are welcome
+i will set a reminder for 3pm on august 8th at 3pm with your aunt 	setting reminder for dinner on august 8th at 3pm with aunt
+you are welcome 	you are welcome
+what city are you want the weather for 	for what location do you want tomorrow s forecast
+it will not drizzle in menlo_park this week 	yes the weather forecast is predicting drizzle for tomorrow in menlo_park
+you a problem 	of course
+it will be warm in menlo_park on monday 	the low temperature for menlo_park on monday is 90f with a high of 100f it will be extremely warm
+you re welcome 	you re welcome
+it will not be foggy in durham on saturday 	it will not be foggy in durham next_week
+you re welcome 	you re welcome
+what city are you interested in the weather 	what days are you interested in
+it will not be windy in new_york this week 	it shouldn t be windy in new_york this week
+glad to help 	glad to help
+what city would you like the weekly forecast for 	where are you located
+it will be dry in danville on on 	danville does not have any dry weather prediction this week
+you are welcome 	you re welcome
+no it will be misty in brentwood today 	it will not be misty in brentwood today or tomorrow
+you are welcome 	no problem
+what city are you want the temperature for 	it will be 50f sunday in oakland
+you re welcome 	you re welcome
+what location do you want the highest_temperature for 	the highest_temperature in manhattan is supposed to be 60f today and 70f tomorrow
+you re welcome 	anytime
+what city would you like to know the weather for 	for which city would you like to know when the next cloudy day is
+it will be cloudy on in san_francisco in 	it will not be cloudy in san_francisco next_week
+you re welcome 	you re welcome
+the is located at 409_bollard_st 	trader_joes grocery_store is 7_miles away at 408_university_ave there isn t any traffic
+navigation set to 409_bollard_st now 	navigation set happy to help
+there is a away 5671_barringer_street 	your home is 7_miles away but there is a car_collision_nearby i sent on your screen the best possible route
+you re welcome 	you re welcome
+the travelers_lodge is located at 333_arbol_dr with no_traffic noted 	the travelers_lodge is 1_miles away at 333_arbol_dr though there is a car_collision_nearby would you like directions there
+travelers_lodge is located at 333_arbol_dr and you want me to set the gps 	travelers_lodge is located at 333_arbol_dr
+you re welcome i m here to assist you 	you are welcome
+the nearest coffee shop is starbucks which is 6_miles away 	the nearest one is peets_coffee it s 7_miles away but there is a car_collision_nearby
+the address to peets_coffee is 4_miles away 	setting directions to peets_coffee at 9981_archuleta_ave now
+i sent the best possible route on your screen drive carefully 	gps is set drive carefully
+the nearest grocery_store is trader_joes which is 4_miles away 	the nearest grocery_store trader_joes is 5_miles away with heavy_traffic do you still want to go
+gps set to trader_joes at 408_university_ave 	setting gps now
+setting navigation to 408_university_ave now 	trader_joes is at 408_university_ave the only route i have is 5_miles through heavy_traffic
+you re welcome 	you re welcome
+there is a away p_.f_._changs and 	there is a panda_express 5_miles away would you like me to send you its address on the screen
+842_arrowhead_way i sent its position on your screen 	panda_express is located at 842_arrowhead_way but a car collision is noted nearby do you still want to go there
+you re welcome 	gps set have a great day
+there is a away away and 	jing_jing and chef_chu_s are both near
+chef_chu_s is the closest chinese 	chef_chu_s is 2_miles away with a road_block_nearby
+i sent the info on your screen the hotel hotel you re welcome 	there is a road_block_nearby but i sent on your screen another route that should allow you to reach there fast enough
+you re welcome 	you re welcome
+we re 4_miles away from home but there is heavy_traffic on our way 	we re 4_miles away from home and there is no_traffic on our route you should reach in few minutes
+the address is 56_cadwell_street 	the address to your home is 56_cadwell_street
+you re welcome 	you are welcome
+there is a away from away and is away you 	there is a palo_alto_cafe nearby
+palo_alto_cafe is located at 436_alger_drive 	the address for palo_alto_cafe is 436_alger_dr
+gps set for palo_alto_cafe at 436_alger_dr 	you re welcome gps set and you should arrive shortly
+you have two lab_appointment scheduled one on wednesday with your brother and one on on with with ana 	your lab_appointment with martha is at 9am
+you are welcome 	you are welcome
+i have two meeting scheduled one at 3pm with the sales_team to discuss_the_company_picnic 	i have one meeting on your calendar it is monday at 10am
+you are welcome 	no problem
+the meeting is at at at 	who do you mean by him ?
+your meeting is on saturday at 11am 	okay meeting with boss on saturday at 11 is set
+you are welcome 	you are welcome
+i have scheduled a tennis with your on the_12th of this month at 9am 	ok setting reminder of your tennis match with ana on the_12th at 9 00 a m
+you are welcome 	you re welcome
+i am setting reminder for tennis on august 50pm on august 12th 	i have set a reminder for a tennis lesson at 4 50pm on august 12th would you like an alarm
+okay scheduling a swimming_activity with brother on sunday at 4pm 	will do your swimming_activity with brother on sunday at 4pm has been scheduled
+you are welcome 	my pleasure
+no problem 	goodbye
+i will set a football_activity with a ana on the_6th at 7pm with ana 	your football_activity with ana on the_6th at 7pm has been scheduled
+you re welcome 	no problem
+there will not be frost in los_angeles on tuesday 	there will not be frost in los_angeles on tuesday
+you re welcome 	you re welcome
+what should not be any hot in exeter on tuesday 	it will be between 80f - 100f on tuesday in exeter
+you are welcome 	sure
+it will not be drizzle in camarillo on camarillo 	it will be raining in camarillo on tuesday
+you are welcome 	anytime
+what city are you want the forecast for 	in what city can i check today and tomorrow s forecast
+there will be no blizzard in brentwood tomorrow 	there will be no blizzard in brentwood next_week
+you are welcome 	you re welcome have a great day
+what should i will be the weather on friday in exeter 	it will not be misty on friday in exeter
+you re welcome 	you are welcome
+what city would you like the weather forecast for 	what city do you need the forecast for
+it will not be cloudy in san_francisco this week 	it will not be cloudy in san_francisco this week
+you re welcome 	you re welcome
+it will not be hot in san_jose this week 	san_jose will be hot on monday thursday and saturday
+you re welcome 	you re welcome
+what city would you like the weather for 	for which day and city would you like to know the weather
+in san_mateo the temperature in san_mateo is the low of and of and of the high of 	currently in san_mateo it is cloudy with a low of 30f and a high of 40f
+you re welcome 	you re welcome
+what city do you want to know if it is raining in 	which city do you want to know if it s gonna rain next_week
+in san_francisco it will rain on tuesday 	it s gonna rain in san_francisco on tuesday and sunday
+you re welcome 	you re welcome
+jill lives at 347_alta_mesa_ave for jack s house 	347_alta_mesa_ave is the address
+you re welcome 	anything else
+there is no_traffic on our way but i sent on your screen the route to reach the shortest 	you re 3_miles away
+you re welcome 5671_barringer_street a great day 	you re welcome
+the is 4_miles away at away is you away away 	jack lives at 864_almanor_ln it is shown on the map
+you re welcome 	anytime
+there is a chinese_restaurant located locally at 	the nearest chinese_restaurant is 2_miles away though there is a road_block_nearby would you like directions there
+the address is 271_springer_street i sent it on your screen 	jing_jing is located at 113_arbol_dr setting navigation now
+setting navigation to 	avoiding heavy_traffic on the way to jing_jing
+you re welcome 	you re welcome
+there is a pizza_chicago and round_table 	there is a dominos and a pizza_my_heart
+there is a away 	they are both within 5_miles dominos is 3_miles away and pizza_my_heart is 2_miles away
+i sent the quickest route on your screen 528_anton_ct you re welcome 	setting route to pizza_my_heart at 528_anton_ct now
+you re welcome 	you re welcome have a great evening
+the nearest pizza_restaurant is round_table located at 704_el_camino_real 	there is pizza_my_heart 6_miles away is it okay for you
+the quickest route to pizza_my_heart pizza_my_heart is 4_miles away with no_traffic 	i highlighted its address on the map drive carefully
+there is coupa 1_miles away 	you are two miles away from starbucks would you like to get its address
+coupa is the nearest coffee_or_tea_place at coupa is located at 394_van_ness_ave the current route has no_traffic 	then we re going at 792_bedoin_street no_traffic on our way enjoy the trip
+you re welcome 	you re welcome
+there nearest starbucks is 6_miles away would you like directions there 	there is no starbucks in the area i m sorry
+teavana is 1_miles away 	cafe_venetia located at 269_alger_dr is 4_miles away without any traffic
+setting navigation to 269_alger_dr now 	navigating to 269_alger_dr now
+you re welcome 	anytime
+there is a safeway near 	we are 1_miles away from safeway with no_traffic on our way and 1_miles away from trader_joes with moderate_traffic where would you like to go
+trader_joes is at 408_university_ave 	sorry i didn t understand which address would you like me to give you would you prefer to go at safeway or at trader_joes
+i just found the address on your screen drive carefully 	then let s go at safeway better if you get some coffee the address is 452_arcadia_pl
+your next football_activity is on the_3rd at 11am 	your next football_activity is on friday at 1pm
+you are welcome 	you re welcome
+your dentist_appointment is on the_3rd at 11am 	i have a doctor_appointment for 7pm on thursday
+your dinner is on friday at 5pm 	your dinner reservations are set for monday at 5pm
+you are welcome 	you are welcome
+your next tennis is at 11am 	your tennis_activity is on monday at 11am
+when and where is this meeting 	what date and time should i schedule your meeting
+added meeting to schedule for today at 1pm 	i am setting a new meeting in your calendar for today at 1pm with hr to go over the budget
+no problem 	no problem
+what day and time should i set the conference tomorrow 	okay reminder set for conference call tomorrow
+you are welcome 	what time should i set the reminder for
+what day and time is the meeting 	what is the date and time for the meeting
+okay i have set for you for you 11am august 	meeting has been set on august 3rd at 11am
+you are welcome 	no problem
+what time is your optometrist_appointment 	what date and time is your optometrist_appointment at
+okay i have set a reminder for you on sunday at 10am 	optometrist_appointment in calendar for 10am on sunday
+what city are you want the temperature for 	what city would you like to know the temperature about
+it will be between be in - 90f in 	the temperature range for next_week goes from lows in the 20s to highs in the 100s for redwood_city
+you are most welcome 	you re welcome
+what city would you like to know if it s snow in 	what city would you like to know if it is snowing in
+it will snow in boston on saturday 	it might snow on sunday do you need to know anything else
+no problem 	you are welcome
+what city are you new_york about the weather weather 	the weather in new_york is predicted as a drizzle with lows in the 60s and highs in the 80s
+it will not be be in in 	it will not be windy in new_york city tomorrow
+you re welcome 	you are welcome
+what city are you want the weekend 	what city are you inquiring about
+in alhambra it will be raining on monday 	it will be raining on saturday and hailing on sunday in alhambra
+you re very welcome 	happy to help
+what days are you interested in 	the weather in new_york is hot today are you interested in other days forecast
+on friday in new_york it will be hot with a low of 60f and a high of 80f 	on friday it will be dew
+you re welcome 	you re welcome
+i have a gas_station gas_station located 5_miles away would you like directions there 	i have one gas_station listed want more info
+the is located at 53_university_av 	76 is at 91_el_camino_real
+no problem 	you re welcome stay safe
+there is topanga_mall within 4_miles 	two shopping_centers are located nearby one is the topanga_mall located 4_miles away and the other is ravenswood_shopping_center that s 2_miles away which do you prefer
+ravenswood_shopping_center is at 434_arastradero_rd 	the address is 434_arastradero_rd i picked the fastest route for you it s on your screen
+you re welcome 	you re welcome
+there is sigona_farmers_market 2_miles away and trader_joes 6_miles away which one do you prefer 	we re 1_miles away drom trader_joes and there is moderate_traffic on our way
+trader_joes is at 408_university_ave 408_university_ave 	the quickest route to trader_joes is 1_miles away at 408_university_ave
+you re welcome 	no problem
+there is a pizza_restaurant 1_miles away would you like directions 	there is dominos 4_miles away does it sound good
+setting navigation to dominos at 776_arastradero_rd 	the quickest route to dominos is with moderate_traffic to 776_arastradero_rd
+dominos is located at 776_arastradero_rd setting navigation now 	i sent the route on your screen drive carefully
+you re welcome 	you re welcome drive safely and enjoy
+the nearest mall is town_and_country 	town_and_country is a shopping_center i can find it is located at 383_university_ave
+you re welcome 	you re welcome
+i have no problem 	yes ravenswood_shopping_center is 3_miles away do you want the address
+the address is at 	ravenswood is located at 434_arastradero_rd do you want me to set the gps
+you re welcome 	happy to help
+there is stanford_shopping_center 6_miles away and stanford_shopping_center 5_miles away 	there is two shopping_center town_and_country and stanford_shopping_center do you have a preference
+the is is away 	town_and_country is closer
+setting navigation to quickest route we should arrive shortly 	okay heading to town_and_country at 383_university_ave
+there is a restaurant near you 	there are two chinese_restaurant nearby mandarin_roots 4_miles away and chef_chu_s 5_miles away
+there is moderate_traffic on the way to mandarin_roots 	mandarin_roots is 4_miles away in moderate_traffic it is located at 271_springer_street
+you re welcome 	anytime
+palo_alto_medical_foundation is 4_miles away 	palo_alto_medical_foundation is the nearby hospital
+the quickest route to palo_alto_medical_foundation is through no_traffic 	palo_alto_medical_foundation is at 611_ames_ave
+you re welcome 	anytime
+we are 5_miles away from dish_parking and there is moderate_traffic on our way 	the nearest one is dish_parking it s 5_miles away
+the only route to dish_parking is located at 550_alester_ave 	dish_parking has heavy_traffic and is the only local one is it okay
+452_arcadia_pl i sent the info on your screen 	the address to dish_parking is 550_alester_ave
+you re welcome 	bye for now
+you have two meeting scheduled one on at with the the the the the the to the the to to the the at to the the the the the at the to the the the at the 	for which one i have one with sales_team at 9am to sign_the_nda and i also have another with sales_team at 1pm to go_over_budget
+you re welcome 	anytime
+you next meeting is scheduled for the_5th at 5pm 	your meeting is on the_5th at 1pm the purpose is to go over the quarterly report
+you to help 	i m here to serve
+your dinner is on at at at 	you have 2 dinners on your schedule one on friday at 6pm with your father and one on the_8th at 7pm with your aunt
+you are welcome 	you re welcome
+your have is tennis on at on at 	your next tennis_activity is thursday at 3pm with your brother
+you are welcome 	happy to help
+your tennis_activity is scheduled for thursday at 11am 	your are scheduled to play tennis thursday at 11am
+okay scheduling a reminder for on the_4th at on the_4th at 	setting reminder for yoga_activity at 11am on the_4th with martha
+you are welcome 	my pleasure
+i have scheduled dinner with martha on the_15th of this month at 10am 	reminder for dinner on the_15th at 10am with martha is set
+you are welcome 	anytime
+okay i should set a reminder for 	okay setting a reminder on the_12th to refill prescription
+okay setting a reminder for your doctorappointment on monday at 2pm with marie 	okay setting a reminder for your doctorappointment at 2pm on monday the_1st with marie
+you are welcome 	you are welcome
+what day and time should i set your optometrist_appointment for 	what time on saturday should i set the appointment reminder
+okay a reminder for your optometrist_appointment with your sister at 3pm 	okay great i have that all set for you can i help with anything else
+what city are you interested in 	for what city did you need the forecast
+the weather forecast does not predict any misty in exeter on tuesday 	it will not be misty in exeter this week
+you re welcome 	anytime
+what days are you interested in 	this week in new_york will be rainy and windy with overcast skies
+it will be dry on in in 	there aren t any days predicted to be dry in new_york this week
+you are welcome 	glad to help
+there will be no a blizzard in san_jose sunday 	the forecast does not predict a blizzard in san_jose this sunday
+you are welcome 	glad i could help out
+what city do you want the weather for 	what city do you want the weather for
+it is not snow in chicago this week week 	there is no snow forecasted for chicago this week
+you are welcome 	anytime
+it will be misty in menlo_park today 	yes menlo_park is predicted to be misty today
+you re welcome 	you are welcome human
+no it s not gonna be overcast in alameda in next 48 hours 	it will be stormy on tuesday and there will be rain on wednesday in san_mateo
+you re welcome 	anytime
+the is is the quickest to 	unfortunately there is a road_block_nearby but i sent on your screen another route to reach faster
+you re welcome 	you re welcome
+the is 4_miles away from the_clement_hotel and is away away away 	the closest is travelers_lodge 1_miles away then the_clement_hotel 2_miles away four_seasons is 4_miles away and the_westin is 5_miles away
+travelers_lodge is at 333_arbol_dr want me to travelers_lodge 	there is a road_block_nearby on the route to 333_arbol_dr would you like directions there
+you re welcome 	you are welcome
+we are 5_miles away from stanford_childrens_health and stanford_childrens_health is 6_miles away do you want the address 	i have a listing for a hospital named stanford_childrens_health and its 5_miles away
+stanford_childrens_health is at 899_ames_ct 	its address is 899_ames_ct unfortunately there is heavy_traffic on our way what to do
+you re welcome 	no problem
+the nearest restaurant is from food but you away would you like and there 	pizza_chicago is the closest pizza would you like the address
+pizza_chicago is the only pizza place is it s located at 	we re going to 915_arbol_dr there is no_traffic and you should be able to reach in few minutes and you re welcome i m here to assist you
+stanford_childrens_health is the only hospital 	palo_alto_medical_foundation is the nearest hospital at 611_ames_ave
+the quickest route to palo_alto_medical_foundation is through moderate_traffic the route 	yes the route to 611_ames_ave is the quickest available
+i is at at on to 	i sent you the info on your screen please drive carefully
+the nearest pizza_restaurant is round_table would you like 	we re 5_miles away from pizza_hut and 6_miles away from round_table do they sound good
+i updated the map on your screen drive carefully 	pizza_hut is the quickest navigating to 704_el_camino_real there is moderate_traffic on the route
+i sent the info on your screen drive carefully 	navigation set have a great day
+there is a starbucks nearby 	navigating you to starbucks
+the address is 792_bedoin_street and there is no_traffic now 	starbucks is at 792_bedoin_street
+you re welcome 	you re welcome
+the is a away 	you have three possible rest_stops one 3_miles away one 4_miles away and one 5_miles away
+the is is 3_miles away with heavy_traffic the is 	the_westin appears to be the fastest at 4_miles away and no_traffic do you need the address
+setting is for the_westin 	the_westin is located at 329_el_camino_real setting navigation now
+i have two meeting scheduled one with the in conference_room_50 to go over the quarterly report 	which one there is one at 11am on the_10th and there is another at 7pm on the_9th
+your swimming activites is scheduled in conference_room_100 at 7pm 	hr will be at the one on the_9th and the infrastructure_team will be present at the one on the_10th
+your dentist_appointment is on the_3rd at at 	your dentist_appointment is at 10am on the_13th
+you re welcome 	you are welcome
+you next yoga_activity is scheduled for the_2nd at 3pm with marie and one on the_16th with tom 	your next yoga_activity is on thursday with your sister
+your yoga_activity on thursday is at 9am with your sister 	your thursday yoga_activity with your sister is at 9am
+your lab_appointment is on the_8th at 4pm 	your lab_appointment is scheduled on friday at 4pm
+you are welcome 	you are welcome
+your next lab_appointment is on tuesday at 4pm with your mother 	you have two one at 4pm on the_17th and one at 6pm on tuesday
+have a great day goodbye 	happy to help
+your next yoga_activity is scheduled for 3pm on wednesday 	your yoga_activity is on wednesday at 7pm
+you re welcome 	you re welcome
+your next tennis is at 1pm on monday 	your next tennis_activity is on wednesday at 1pm
+no problem 	you re welcome
+your next yoga is on at at at at 	okay reminder set for your yoga appointment on the_8th at 5pm with your aunt
+you are welcome 	not a problem
+you meeting is meeting scheduled for the_3rd at 11am 	scheduling meeting for 4pm later this week with infrastructure to discuss_dress_code do you have a specific day in mind
+you are welcome 	anything else
+you re welcome 	you re welcome
+okay i for conference with wednesday with infrastructure_team infrastructure_team to the infrastructure_team 	okay setting reminder for your meeting with the infrastructure_team on wednesday at 9am
+you are welcome 	happy to help
+what day and time should i set up up up results for 	okay what date should the reminder be on
+okay i have set up for lab up the_12th at the_12th 	the_12th
+i have added a reminder for august 3rd at 9pm for you can i help with anything else 	a reminder has been set for dinner on august 3rd at 9pm with your brother
+when and conference_room_102 to be meeting 	what day and time is the meeting
+i have set a reminder for the meeting on at at 	setting meeting at 2pm on august 3rd with sales_team to discuss_the_merger
+no problem 	glad to be of service
+there will be no frost in menlo_park on friday 	in menlo_park the weather will be stormy on friday
+you re welcome 	happy to help
+what city are you inquiring about 	what city are you wanting to know if it s going to rain
+it will rain on rain this week in menlo_park 	in menlo_park it will rain on tuesday and wednesday
+you re welcome 	no problem
+what city are you in the weather 	what can i tell you about this week s weather in new_york
+it will not rain in new_york this week week 	it will not rain this week in new_york
+you are welcome 	you re welcome
+it will not drizzle in the forecast 	it will not drizzle in oakland next_week
+you re welcome 	no problem
+what city would you like the temperature for 	what city would you like to know the temperature for
+it will be san_mateo in in - of 	for what day are you interested
+the temperature in san_mateo this week week low of 70f high of 80f on monday low of 70f high of 90f on friday low of 70f high of 90f on friday low of 70f high of 90f on friday low of 70f high of 90f on friday low of 70f high of 90f on friday low of 70f high of 90f on friday low of 70f high of 90f on friday low of 70f high of 90f on friday low of 70f high of 90f on friday low 	in san_mateo it will be 50f - 60f on monday 30f - 50f on tuesday 50f - 60f on wednesday 50f - 70f on thursday 80f - 100f on friday 70f - 90f on saturday and 80f - 100f on sunday
+you are welcome 	you are welcome
+the nearest a is from away at is 	there is comfort_inn 3_miles away but with heavy_traffic on its direction do you want me to set the navigation there
+you re welcome 	setting gps now
+navigation is set and navigation set 	the address for comfort_inn is 753_university_ave
+you re welcome 	you are welcome driver
+the nearest gas_station is 76 at 91_el_camino_real 	the nearest gas_station is 76 at 4_miles away but a road block is nearby
+you re welcome 	you are welcome
+stanford_childrens_health is the only hospital 	the fastest route to the hospital is 899_ames_ct at 4_miles away with a road_block_nearby do you want to go to stanford_childrens_health
+setting navigation to the route to 	shortest route found and being set you will arrive shortly
+i have a home 5671_barringer_street 	you live at 10_ames_street
+i have a car collision is the only 	we re 2_miles away and there is no_traffic i sent the route on your screen keep your eyes open on the road
+you re welcome 	happy to help
+the closest rest_stop is the_westin 	comfort_inn is 5_miles away
+there is moderate_traffic on the route to 	comfort_inn route is reporting a car_collision_nearby do you still want to go there
+i sent the info on your map drive carefully 	i sent the best available route on your screen drive carefully
+you re welcome drive safely and enjoy 	you re welcome
+you re welcome 	you are very welcome
+the is hospital is from away and 	the nearest hospital is 5_miles away at 899_ames_ct there is heavy_traffic on the way
+you re welcome 	you are welcome
+there is no starbucks nearby 	there is no starbucks nearby
+coupa is the closest coffee shop is 3_miles away would you like the address 	there is coupa it s just 6_miles away but there is heavy_traffic on our way
+i sent the quickest route on your screen drive carefully 	coupa is located at 394_van_ness_ave setting the fastest route on gps
+you re welcome 	you re welcome
+jill lives at 347_alta_mesa_ave 	jill s house is located at 347_alta_mesa_ave anything else
+there is moderate_traffic on our way but you should be able to reach fast anyway 	there is no_traffic on the way to jill s house
+you re welcome 	okay we re on the way now
+you re welcome 	you re welcome happy i could help
+the is rest_stop is away 	the_clement_hotel is 5_miles away
+the is is the to is is 	sure it s just 5_miles away at 657_ames_ave
+you re welcome 	setting route to 657_ames_ave now
+you re welcome 	you re welcome happy to help
+jill or tom s house 	jill or jack
+jill have a away 	jack is closer
+jack s the address is 5671_barringer_street 	864_almanor_ln it s 3_miles away i sent his address on your screen
+you re welcome 	you re welcome happy to help
+the nearest coffee shop is palo_alto_cafe which is you would you like the name and you prefer 	the palo_alto_cafe is located at 436_alger_dr it is 2_miles away with moderate_traffic
+the address is at is the is is 	i sent the info on your screen you re welcome
+you have two football_activity scheduled one on with with and one on with with with with with 	which one i have two one for 11am with ana and one for 6pm with job
+happy to help 	all done you are welcome
+you have two optometrist_appointment scheduled one on the_2nd with your father and one on with with with 	i have two one at 1pm with father and one at 7pm with martha
+your optometrist_appointment is on on on with with with 	the optometrist_appointment with martha is at 7pm
+you are welcome 	anytime
+the football game is tuesday at 3pm 	the football game is at 3pm
+your doctorappointment is on wednesday at 2pm 	your doctorappointment is wednesday at 2pm
+what day and time should i 11am the football game 	the football game is on friday at 11am
+you are welcome 	you are welcome human
+what day and time should i set the 	okay please tell me which day you would like me to schedule
+okay scheduling an appointment with alex on wednesday at 1pm 	okay making appointment with alex on wednesday at 1pm
+you are very welcome 	my pleasure
+okay scheduling a conference with vice_president vice_president for next_week at 4pm 	i have scheduled a conference with the vice_president next_week at 4pm
+what time is your yoga class 	what time is your yoga class
+what city do you want to know if it will rain in 	for which city would you like to know if there is going to be rain next_week
+it will not be rain seattle in seattle 	it will drizzle tuesday saturday and sunday in seattle
+you re welcome 	no problem
+which city would you like the forecast for 	it is not snowy in alhambra today
+you are welcome 	no problem
+what city are you want the the temperature for 	for what city
+it will be 30f - 40f in seattle today 	today s temperature in seattle will have a low of 30 f and a high of 40f tomorrow s temperature will be a low of 80f and a high of 90f
+you re welcome 	glad to help
+no on saturday it will be misty in redwood_city 	this week it s not gonna be misty in redwood_city
+you re welcome 	you are welcome human
+what city would you like the weather for 	what city would you like the weather report from
+it will not rain in fresno this week 	it s not gonna rain in fresno this week
+you re welcome 	you are very welcome
+what city would you like to know the temperature for 	what city would you like to know the high temperature of
+it will be 30f - 40f in compton on monday 	this week the highest_temperature in compton will be 90f on friday and sunday
+you re welcome 	you are welcome
+what city do you want the 	what city do you want the weather for
+what would you like to know about the weather in compton 	it is not forecasted to snow in compton this week
+no problem 	you are very welcome
+the nearest coffee shop is starbucks which is 6_miles away 	the nearest coffee shop is cafe_venetia on 269_alger_dr
+setting navigation now there is a car_collision_nearby so drive carefully 	there is a car collision reported on the route to cafe_venetia
+i sent the best possible route on your screen drive carefully 	unfortunately there is a car_collision_nearby do you want me to set the gps anyway
+there is a car_collision_nearby but i sent on your screen 	2_miles away
+yes the route car_collision_nearby home is the only 	ok setting navigation now
+setting navigation now now now setting navigation now 	you re very welcome
+there is a pizza_chicago and round_table 	there is a round_table and papa_johns near
+the is is away 	papa_johns is closer at 3_miles
+setting gps to 110_arastradero_rd now 	setting navigation to papa_johns at 110_arastradero_rd anything else
+you re welcome 	you re welcome
+there is a away 5671_barringer_street and there moderate_traffic 	in this moment there is moderate_traffic on our way but since we re just 6_miles away it shouldn t take too long to reach home i sent the route on your screen
+the is to the route to to 	setting directions to 5672 barringer street now
+no problem 	anytime
+there is no starbucks nearby 	there are no nearby starbucks but there are 3 other coffee places nearby
+the is is away 	setting directions to coupa located 2_miles away at 394_van_ness_ave
+the nearest restaurant is jing_jing would you like the address 	navigating you to jing_jing
+the quickest route to jing_jing is is 	setting gps to quickest route for jing_jing which has no_traffic
+jing_jing is located at 113_arbol_dr 	you re welcome glad i could help
+there is a safeway 	we re 1_miles away from safeway and there is no_traffic on our way set the gps to go there
+safeway is at 452_arcadia_pl 	safeway is at 452_arcadia_pl
+i sent the info on your screen you re welcome 	taking you there on the shortest distance
+you re welcome 	you re welcome glad i could help
+whole_foods is 2_miles away 	sigona_farmers_market is the only grocery_store i can find it is 5_miles away
+you re welcome 	you re welcome
+the is hotel is nearby 	there is a four_seasons and a hotel_keen nearby
+the four_seasons is located at 657_ames_ave ., 5_miles away with no_traffic 	the nearest rest_stop is at 465_arcadia_pl
+you re welcome 	you re welcome
+your home is at 5671_barringer_street 	home is programmed as 5671_barringer_street
+the is a away 	the route to home does not have any traffic you should arrive quickly being that it is 1_miles away
+you re welcome 	you are welcome
+there is no starbucks nearby 	there is no starbucks in your area but there are other coffee places near by would you like more info
+the address is 792_bedoin_street i sent it on your screen 	the nearest coffee shop is 2_miles away and the name of it is philz would you like the address
+the name of philz is coupa is 	philz is 2_miles away at 583_alester_ave anything else
+you are welcome 	great glad to help
+your have two tennis_activity scheduled one on monday at 9am and another on the_11th at 7pm with your father 	your tennis_activity is on the_4th at 3pm
+you are welcome 	no problem have a good day
+your football game is at 11am 	today s football_activity is at 11am
+your doctorappointment is on tuesday at 11am 	your doctorappointment is at 10am on wednesday
+your next is tennis match on 	your tennis_activity is scheduled for 11am on tuesday nothing is scheduled for saturday
+you re welcome 	you are welcome
+okay setting a reminder to take medicine with jon for the_7th at 10am 	alright setting a reminder at 10am to take medicine on the_7th with jon
+you are welcome 	you re welcome
+what day and time should i i set 	when would you like to schedule your appointment
+okay setting a reminder for your swim meet at 3pm next wednesday at 3pm 	your swim meet has been set for 3pm next wednesday the_7th .... is that correct
+you i ve set a reminder for your swim at 3pm with your sister 	you are welcome
+what city are you interested in 	which city do you want the weather forecast for
+in inglewood it will be foggy on monday and tuesday overcast on tuesday raining on thursday dry on friday foggy on saturday and clear on sunday 	in inglewood it will be frosty on monday overcast on tuesday raining on wednesday foggy on thursday drizzle on friday and saturday dry on sunday
+you re welcome 	no problem
+what city do you want to know if it s going to snow 	what location do you want the weather for
+there shouldn t be any snow in oakland today 	there will be no snow today in oakland
+you re welcome 	anytime
+what city would you like the weather for 	for what location and time
+it will be dry in fresno today 	no it will not be dry in fresno today today s forecast is rain with a low of 20f and a high of 40f
+you re welcome 	you are very welcome
+what city do you want the weather for 	what city are you inquiring about
+in san_francisco the temperature in san_francisco is predicted to be cloudy 	in the next_week in san_francisco it will be dry on monday raining on tuesday hail on wednesday and thursday hot on friday overcast on saturday frost on sunday
+you re welcome 	you re welcome
+what city city i i give you the weather for 	for what city do you need the weekly forecast
+in san_francisco the weather is predicted to be cloudy with a low of 20f and a high of 40f 	the weather in san_francisco during the next_week will be humid on monday clear_skies on tuesday stormy on wednesday raining on thursday windy on friday raining again on saturday and sunday
+you re welcome 	you are very welcome
+it will not be stormy in san_mateo on saturday 	it will not be stormy in san_mateo this week
+you re welcome 	you are welcome
+there will be clear_skies in redwood_city redwood_city 	there currently are no clear_skies in redwood_city
+you re welcome 	glad i could help out
+it will not drizzle in camarillo camarillo 	on tuesday there will be drizzle in camarillo
+you re welcome 	you are welcome
+the nearest gas_station is 1_miles away at you would you like directions there 	topanga_mall is the only one nearby but here is heavy_traffic
+setting gps to to topanga_mall at 171 oak now now 	i sent its position on your screen drive carefully
+the nearest chinese_restaurant is 	there is a jing_jing 2_miles away
+the current route is is with moderate_traffic the 	alright the route to 113_arbol_drive is 2_miles away with a road_block_nearby
+you re to route to follow the route on your screen you re welcome 	navigation is set drive carefully and enjoy
+you re welcome 	you re very welcome
+there is a away away away 	jing_jing is 2_miles away in light traffic would you like directions there
+jing_jing is located at 113_arbol_dr 	jing_jing is at 113_arbol_dr do you need me to set the navigation
+you re welcome 	no problem
+the is gas_station is chevron 	there is a gas_station 4_miles away it s chevron would you like more details
+the only route to chevron is the only 	here is the best route to chevron
+chevron is located at 783_arcadia_pl 	783_arcadia_pl do you want me to send the route on your screen
+you re to 783_arcadia_pl 	plotting route to 783_arcadia_pl 4_miles away with car_collision_nearby
+you re welcome 	you re welcome
+the 76 is 76 8_miles away at 200_alester_ave 	there is 2 gas_stations nearby one has a road block noted and the other is 8_miles away with heavy_traffic which do you prefer
+the quickest route to chevron is the 	directions to valero are on your screen
+valero is at 200_alester_ave and valero is set 	valero is located at 200_alester_ave and has a road block reported
+you re welcome 	the info are on your screen and you re welcome
+we re 2_miles away from teavana and there is no_traffic on our way 	teavana is 2_miles away
+there is a away 	unfortunately teavana is the only coffee place i can find it is 2_miles away through heavy_traffic located at 145_amherst_st
+i sent the info on your screen drive carefully 	navigation is set have a great day
+we re 6_miles away from home but there is a car collision on screen 	the only route i currently have to home currently has heavy_traffic would you like me to set your gps anyway
+the quickest route home is on is and the fastest route 	taking you on the quickest way home
+you are welcome 	you re welcome
+the nearest hotel is the_westin 	the nearest hotel is the four_seasons
+the address is four_seasons 	the four_seasons hotel is located at 465_arcadia_pl
+there is moderate_traffic on our way but i sent on your screen 	gps set anything else
+you re welcome 	you re welcome
+you have two lab_appointment scheduled one on wednesday with your brother and one on on with with with ana 	currently you have two lab_appointment one on the_3rd which martha is attending and one on the_13th that your brother is attending
+you re welcome 	you are welcome
+you have two optometrist_appointment scheduled one on the_2nd with your and one and on on with with 	i have two one on thursday with tom and one on the_3rd with alex
+you are welcome 	you are welcome driver
+i have scheduled a yoga_activity at 2pm on the_1st at 2pm 	okay i am scheduling a yoga_activity for you on the_1st at 2pm
+okay setting a for your yoga_activity on the_1st at 	your sister has been added to parties involved for your yoga_activity at 2pm on the_1st
+you are welcome 	i m happy to help you
+i am scheduling a doctor_appointment for august 3rd at 10am with your brother 	okay scheduling a doctor_appointment with your brother for august 3rd at 10am
+you re welcome 	no problem driver
+what time is your meeting 	i have set a reminder for your meeting on august 12th at 5 50
+you are welcome 	glad to be of service
+what day and time should i schedule your dinner with alex 	okay scheduling dinner with alex for monday the_1st at 3pm
+you re welcome 	you are very welcome
+okay scheduling a football_activity with mother for august 14th at 11am 	setting a schedule for football_activity with mother for august 14th at 11am
+you are welcome 	you are welcome friend
+you re very welcome 	you are very welcome
+what city would you like the weather for 	what city should i check the forecast for
+today is gonna be foggy in san_mateo today and tomorrow 	in san_mateo there will be rain today and it will be stormy tomorrow
+you re welcome 	you re very welcome
+what city are you want the weather for thursday 	what city do you want to hear thursday s weather for
+on thursday it will be overcast in atherton 	it will be cloudy in atherton on thursday
+you re welcome 	you re very welcome
+what city would you like the weather for 	where would you like to hear the weather forecast from
+there is no in in in in 	there will be no clear_skies in atherton today the weather will be a blizzard low of 50f high of 60f
+you are welcome 	anytime
+what city would you like the weather the weather for 	the weather in new_york is foggy
+the weather in new_york is predicted to be windy with a low of 80f and high of 100f 	no the weather isn t going to be good in new_york in next days
+you re welcome 	anytime
+it will not be warm in brentwood brentwood this week 	tuesday wednesday and sunday appear to be the warm days expected in brentwood this week
+you re welcome 	you are welcome
+what city would you like the temperature for 	what city are you wanting to know the temperature for
+it will be 30f - 40f - 60f in in 	it is currently overcast with a low of 60f and a high of 80f in san_mateo
+you are welcome 	you are welcome
+what city would you like the the forecast 	what days are you interested in
+there is no blizzard in in in 	no there is not a blizzard in new_york right now
+you are welcome 	you re welcome
+there is no frost in oakland right now 	there is no frost in the forecast for today in oakland
+you re welcome 	no problem
+what city would you like the weather the weather forecast for 	new_york is supposed to be fair with a chance of rain on saturday with the highs in the 90s and lows in the 20s
+you re welcome 	glad to help
+what city would you like the weather for 	what location do you want the weather for
+there will be be be cloudy in corona 	it is not predicted to be cloudy in corona today
+you re welcome 	anytime
+there is a chinese_restaurant located locally at 271_springer_street 4_miles away 	we re 2_miles away from jing_jing and 5_miles away from p_.f_._changs which one do you like more
+jing_jing is located at 113_arbol_dr 	i sent its position and the route to reach it on your screen don t speed too much
+jing_jing is at at 	jing_jing is at 113_arbol_dr there is a road_block_nearby shall i give you directions
+i sent sent jing_jing on your screen drive carefully 	i sent the best route on your screen enjoy your trip
+you re welcome 	you re welcome
+stanford_shopping_center is 2_miles away 	stanford_shopping_center and town_and_country are both near
+we re 2_miles away from stanford_shopping_center does it sound good to you 	stanford_shopping_center is only 2_miles away and town_and_country is 1_miles away
+i picked the quickest way and sent the best route on your screen 	its address is 383_university_ave i sent the position on your screen
+you re welcome 	you re welcome
+chef_chu_s is the closest chinese_restaurant 	chef_chu_s located at 593_arrowhead_way is 4_miles away there isn t any traffic on this route
+you re welcome 	you re welcome
+jill lives at 347_alta_mesa_ave 	jack or jill
+i have a is listed jack s at 	jill s house is 2_miles away while jacks_house is 4_miles there is moderate_traffic to both locations
+setting house to tom s house 	displaying gps now
+you are welcome 	you re welcome
+there is a away 	navigating you home with the least traffic
+you have two medicine events scheduled one at 11am with jon and another at 7pm with 	i have you set for two one at 6pm and one at 3pm
+i have two driver one at 6pm with father and one at 7pm with mother 	mother is one the helping at 3pm anything else
+you re welcome 	you are welcome
+your next swimming_activity is on friday at with with 	your next swimming_activity is at 6pm with your brother on sunday
+your doctorappointment is at 1pm 	your next doctorappointment is thursday at 1pm
+you have no set 	you are welcome
+your next is is on at 	your next yoga class is at 11am on wednesday
+what day and time should i schedule your blood test 	what date and time are you blood test
+your blood is at 1pm 	your blood test has been scheduled for tomorrow at 1pm
+you are welcome 	no problem
+what day next_week and time should i set the doctorappointment 	what time should i set the appointment
+your dentist_appointment a dentist_appointment on august 8th at 6pm 	your dentist_appointment with alex has been scheduled for monday at 6pm
+you are welcome 	you re welcome
+i have scheduled a reminder with your mother on monday at 7pm 	setting a reminder to take my medicine on monday aug 8 at 7pm with your mother
+my pleasure serving you 	you are welcome
+what day and time is the meeting 	when
+what what time would you like to schedule your tennis 	what day and time should i add playing tennis to your schedule
+okay i have that scheduled for you on august august 	okay adding playing tennis to your calendar on august the_8th at 10am
+i will set a reminder for your lab_appointment with your aunt on tuesday at 1pm 	sure a calender reminder has been set for 1pm this upcoming tuesday with your aunt
+you are welcome 	my pleasure
+what city do you want to know if it s going to snow 	what city would you like the forecast for
+it will not snow in boston boston boston 	it will not snow in boston this week
+it will not be hot in inglewood this weekend 	it will be hot on sunday in inglewood
+you re welcome 	no problem
+what city would you like the temperature for 	what city should i check the temperature for
+today in seattle is gonna be low temperature of 40f and high of 	the temperature for seattle today will be low of 60f high of 80f and also cloudy
+you are welcome 	you re welcome
+what city do you want the 7 day forecast for 	what city do you want to know the 7 day forecast for
+it will not drizzle in drizzle this week 	the weather forecast predicts it will drizzle on saturday
+anytime 	you are welcome
+there will be be be in the 	over the next 7 days the days with the highest_temperature will be wednesday and friday with a high of 90f
+you re welcome 	anytime
+what city would you like the weather for 	where are you located
+it will not be humid in los_angeles tomorrow 	tomorrow in los_angeles it will be cloudy there isn t a prediction for humidity
+you re welcome 	not a problem
+what city would you like to know the weather for 	what city do you need to know if it will be hot
+this week in new_york it will be hot on monday and on tuesday on wednesday 	this week in new_york it will be windy on monday clear_skies on tuesday hail on wednesday lowest_temperature on thursday clear_skies on friday windy on saturday dry on sunday
+you are welcome 	you re welcome
+what city would you like the forecast for 	for what city do you need information about today s forecast
+in los_angeles it will be cloudy today 	it appears it will be windy - i do not have information about cloud cover
+you re welcome 	you re welcome
+what city are you want the 	what city do you want to know the temperature
+in grand_rapids the temperature is predicting lows in the 20f and highs in the 100s 	it will be between 80f - 100f in grand_rapids this weekend
+glad to help 	anytime
+the is parking_garage is 	we re 4_miles away from civic_center_garage and there is also a road_block_nearby do you want me to find a quickest way to go there
+the address is 481_amaranta_ave 	setting navigation to 270_altaire_walk now
+i sent all the info on your screen drive carefully 	yes i will navigate you via the fastest route
+you re welcome 	you are welcome
+there is no starbucks nearby but i can find it is 4_miles away would you like to go there 	there is no starbucks nearby the palo_alto_cafe is 7_miles away would you like directions there
+the address is at is setting navigation now 	the palo_alto_cafe is reporting heavy_traffic but i will still find the quickest route to 436_alger_dr
+you re welcome drive safely and take care 	you re welcome
+the closest chinese_restaurant is p_.f_._changs located at 	the closest chinese_restaurant seems to be p f chang s at 3_miles away with moderate_traffic do you want the address
+the quickest route is now 	the address of p_.f_._changs is 669_el_camino_real we should be there shortly
+i sent the route and 669_el_camino_real with moderate_traffic on your screen 	setting navigation now enjoy
+you re welcome 	you re welcome
+we re 6_miles away from topanga_mall and there is no_traffic 	i have a listing for a shopping mall that is 6_miles away want more info
+whole_foods is at at is 	topanga_mall is located at 171 oak road want me to set the gps
+your 	you re welcome
+the nearest parking_garage is dish_parking at 550_alester_ave 	there is a parking_garage but there is a car collison nearby that could delay your arrival but only one listed in area do you want the details
+unfortunately there is a car_collision_nearby but i sent on your screen another route that should allow you to reach the garage fast enough 	stanford_oval_parking is located at 610_amarillo_ave i sent its position with the quickest route on your screen
+you re welcome 	you re welcome
+stanford_childrens_health is the only hospital 	stanford_express_care is a hospital that is 3_miles away need more info
+stanford_express_care is located at 214_el_camino_real 	stanford_express_care is located at 214_el_camino_real
+setting navigation to 56_cadwell_street now 	the address to your home is 56_cadwell_street setting gps for the fastest route now
+it is my pleasure to assist you 	you re welcome
+there is a chinese_restaurant located locally it s just 2_miles away 	panda_express is a chinese_restaurant nearby
+setting the quickest route to panda_express 	currently the quickest route to panda_express is through heavy_traffic should i set the gps now
+panda_express is 6_miles away and there is heavy_traffic on our way i sent the info on your screen 	no panda_express is the only one i have listed
+panda_express is located at 842_arrowhead_way 	panda_express is located at 842_arrowhead_way
+you re welcome 	i sent the info on your screen you re welcome
+the nearest 2_miles away from palo_alto_garage_r and the address is 481_amaranta_ave 	here is a route to starbucks 4_miles away
+the is is the away 	there isn t any traffic heading to 792_bedoin_street
+you re welcome 	you re welcome
+there is a couple chinese_restaurant 	there is the chinese_restaurant p_.f_._changs at 669_el_camino_real it s just 2_miles away
+the only route to 669_el_camino_real 	p_.f_._changs has no_traffic at the moment i am setting the navigation and we should arrive soon
+you re welcome 	you re welcome
+the nearest grocery_store is safeway at 	we are 2_miles away from safeway do you want me to send you its address on screen
+the address to safeway is 452_arcadia_pl 	safeway is located at 452_arcadia_pl with no_traffic setting gps now
+you are welcome 	no problem driver
+the nearest restaurant is p_._f_._changs away would you like 	there is jing_jing 1_miles away and p_.f_._changs 4_miles away which one do you prefer
+jing_jing is located at 113_arbol_dr 	jing_jing is 1_miles away at 113_arbol_drive we shouldn t be long in getting there
+you re welcome 	you re welcome glad to help
+what day and time would you like dentist visit scheduled 	what date and time would you like to make your appointment
+okay scheduling a football_activity with tom for the_8th at 5pm 	okay i am scheduling a football_activity with tom for the_8th at 5pm
+what city are you asking about 	what city should i check the weekly temperature for
+there will be no a of of this week in oakland 	oakland has the following forecast low of 60f and high of 70f on monday low of 80f high of 100f on tuesday low of 50f high of 70f on wednesday low of 30f high of 50f on thursday low of 70f high of 80f on friday low of 50f high of 60f on saturday low of 40f high of 50f on sunday
+you are welcome 	you re welcome
+what city should i check the weather forecast for 	what city will you be taking your drive in
+it will be raining on tuesday in camarillo 	there are clear_skies on camarillo now but don t go too fast
+there is a car_collision_nearby but on is on on 	you re welcome
+what city do you want the weather for 	what city do you want the weather for
+it will not be raining in fresno this week 	no rain is in the forecast for fresno this week
+you re welcome 	no problem
+what city are you want the weather for 	for what city would you like me to check tomorrow s weather for
+it will be foggy in redwood_city redwood_city 	the weather forecast for redwood_city says there will be clear_skies with a low of 90f and a high of 100f tomorrow
+anytime 	not a problem
+what city do you want the weather for 	what city are you interested in
+there shouldn t be any frost in oakland today 	it will be windy with a low of 90f and a high of 100f in oakland today
+what city would you like the weather for 	what city do you want the weather for
+there will be clear_skies in manhattan today 	the weather for manhattan will be snow low of 70f high of 90f on monday and hot low of 70f high of 90f on tuesday
+you re welcome 	no problem
+what city would you like the weather for 	what city would you like the weather for
+the weather forecast for brentwood today in brentwood 	monday will be cloudy in brentwood tuesday will have a high temperature of 70f and a low of 50f
+you re welcome 	you are welcome
+what city are you want the weekend weather for 	what city are you asking about
+there will be no frost in downtown_chicago this week 	there will be no frost for downtown_chicago this week
+you re welcome 	you re welcome
+what city would you like to know if it will be cloudy 	what city are you wanting to know if it s going to be cloudy
+it will be be cloudy in san_mateo on 	it will be cloudy in san_mateo on friday
+you re welcome 	you re welcome
+you re welcome 	anytime
+there is a is from away 	5677_springer_street is 2_miles away with moderate_traffic
+you re welcome 	you re welcome
+the nearest barista is 1_miles away would you like directions 	the nearest coffee place is cafe_venetia at 269_alger_dr
+setting navigation to 269_alger_dr now 	setting navigation now there is heavy_traffic so drive carefully
+you re welcome 	you re welcome drive carefully and enjoy
+jill lives at 347_alta_mesa_ave 	home is at 56_cadwell_street
+you re welcome 	you re welcome
+i have a gas_station gas_station 8_miles away named chevron care for more info 	there are 2 gas_stations near you woud you like the closest one
+the address to chevron is 53_university_av 	the 76 is located at 91_el_camino_real it is 4_miles away in heavy_traffic
+we re 2_miles away from town_and_country and there is no_traffic on our way 	town_and_country is the closest
+there is moderate_traffic on the way to stanford_shopping_center 	there is moderate_traffic
+gps set for quickest route to 	i sent the info on your screen drive carefully
+there is jing_jing 4_miles away and jing_jing 6_miles away from which one do you prefer 	the nearest chinese restaraunt is panda_express at 842_arrowhead_way
+there is no is 	you re welcome
+you have two yoga_activity scheduled one at 3pm with alex and another on the_11th at 11am with alex 	you have three yoga_activity scheduled one with alex your mother and your aunt
+your next is is scheduled on at 	you lab_appointment is at 10am on friday
+your next workout is a at 1pm on 	your yoga class or swimming
+the swimming is scheduled for tuesday at 7pm 	your swimming class is scheduled for 10am today
+i have a location for your optometrist_appointment with your brother 	i will set a reminder for an optometrist_appointment at 9am on the_6th of this month with your brother attending as well
+you re welcome 	you re welcome
+what time would you like the appointment 	your reminder is set
+what day and time is the the conference 	what is the date and time needed
+what day and time is the meeting with 	scheduling your meeting with the vice_president on monday the_1st what time shall i add
+setting a reminder for your meeting with the vice_president on monday at 6pm 	okay setting a reminder about your meeting with the vice_president on monday the_1st at 6pm to discuss_the_company_picnic
+you are welcome 	no problem
+okay what day and time should i can set the reminder 	okay i ve got it scheduled for you anything else
+happy to help 	anytime
+what day and time is the 	okay setting a reminder for your football_activity today at 1pm with jon
+you are welcome 	no problem
+what time would you like dinner reminder 	is there a date or time for dinner that i should add to this reminder
+i will set a reminder for dinner at 7pm tomorrow at 7pm 	where is the location
+the location for your location for what location 	i have set a reminder for dinner at 7pm tomorrow
+you re welcome 	you are welcome
+okay setting a reminder to take medicine on your tenth at 5pm 	reminder set for jon to take medicine on the_10th at 5pm
+no problem 	you are welcome
+okay scheduling a dinner with monday the_1st at 4pm 	okay scheduling a dinner with your father for monday the_1st at 4pm
+you re welcome 	no problem
+what day would you like the forecast for 	100f is the highest_temperature predicted for the next two_days in durham
+you are welcome 	anytime
+yes i can find the 76 has a car collision being reported nearby 	that is still the closest gas_station
+you re welcome 	you re welcome
+jill lives at 347_alta_mesa_ave 	jill lives at 347_alta_mesa_ave
+i sent route on your screen you re welcome 	yes that route has no_traffic noted
+you re welcome 	okay
+setting a reminder for taking_medicine at 10am on the tenth with jeff 	for which one i have three one with jeff at 11am one with alex at 10am and one with your mother at 2pm
+you re welcome 	you are welcome
